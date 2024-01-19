@@ -9,7 +9,7 @@ const Album = ({ artist }) => {
 
   useEffect(() => {
     dispatch(myAlbum(artist));
-  }, []);
+  }, [artist, dispatch]);
 
   return (
     <>

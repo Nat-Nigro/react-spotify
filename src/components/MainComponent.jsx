@@ -43,7 +43,7 @@ const MainComponent = () => {
             <h2>Pop Culture</h2>
             <Row className="row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 imgLinks py-3" id="popSection">
               {" "}
-              <Album artist="katy perry" />
+              <Album artist="beyonce" />
             </Row>
           </div>
         </Col>
