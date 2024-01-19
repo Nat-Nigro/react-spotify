@@ -37,12 +37,12 @@ const SideBar = () => {
                   <ul>
                     <li>
                       <Link className="nav-item nav-link d-flex align-items-center" href="#">
-                        &nbsp; Home
+                        Home
                       </Link>
                     </li>
                     <li>
                       <Link className="nav-item nav-link d-flex align-items-center" href="#">
-                        &nbsp; Your Library
+                        Your Library
                       </Link>
                     </li>
                     <li>
